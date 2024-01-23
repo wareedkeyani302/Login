@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div className='header' >
         <div className='logo'>
-            <img src={Logo} alt='logo-image' className='logo-img' />
+            <img src={Logo} alt='Valentia Tec' className='logo-img' />
         </div>
         <ul className='navbar'>
             {/* <li className='nav-item'>
