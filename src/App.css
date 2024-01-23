@@ -140,6 +140,8 @@ input {
 .info {
   font-size: 32px;
   margin-bottom: 20px;
+  color: #f1f1f1f1;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 .info-button {
